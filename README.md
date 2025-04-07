@@ -4,7 +4,8 @@
 Listen is a beautifully designed web-based music player that allows users to browse and play songs seamlessly. With an intuitive UI and engaging visuals, it enhances the music listening experience by providing smooth playback controls and an easy-to-navigate song list.
 
 
-![Screenshot 2025-04-02 163202](https://github.com/user-attachments/assets/4054c8d7-a7c8-489b-a1ee-445ecf9e1c8a)
+![Screenshot 2025-04-02 163202](https://github.com/user-attachments/assets/87f475f9-83fe-46b4-b43f-3ab20cfcdfc7)
+
 
 ##  Features
 🎧 Play, Pause & Skip: Control music playback with ease.<br>
